@@ -2,6 +2,8 @@
 
 An open-source [Agent Skill](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview) that compresses a long conversation into one compact brief you paste into a fresh chat. You keep your context, and the new chat starts small.
 
+**Quick install:** download [chat-handoff.zip](https://github.com/kaktech/chat-handoff/releases/latest/download/chat-handoff.zip) and upload it in claude.ai under Customize > Skills. Claude Code users: see [Install](#install).
+
 Say "this chat is getting long" or "hand off". You get one code block to copy, plus one line telling you where to paste it.
 
 ## Why it saves usage
